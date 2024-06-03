@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">UTSAndroid-Pem-Andro-3-10121265-Alfaroqih Swandi</string>
+    <string name="form">Form Pengisian Data</string>
+    <string name="info">Info</string>
+    <string name="form_desc">Form berikut ini bertujuan untuk memberikan informasi kepada pusat agar dapat mudah dilaporkan </string>
+    <string name="form_pengisian_data">Form Pengisian Data</string>
+    <string name="form_berikut_ini_bertujuan_untuk_memberikan_informasi_kepada_pusat_agar_dapat_mudah_dilaporkan">Form berikut ini bertujuan untuk memberikan informasi kepada pusat agar dapat mudah dilaporkan</string>
+    <string name="jenis_tes_harus_diisi">Jenis Tes • Harus Diisi</string>
+    <string name="rapid_antigen">Rapid Antigen</string>
+    <string name="pcr">PCR</string>
+    >
+</resources>
